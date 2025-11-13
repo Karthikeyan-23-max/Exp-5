@@ -36,7 +36,7 @@ Sequence Diagram
 6 . Reports are created and stored securely in the database for future reference.
 
 # DIAGRAMS:
-
+(upload all 6 diagrams)
 # Use Case Diagram:
 ![UseCaseDiagram1](https://github.com/user-attachments/assets/3b2cfc74-8f28-4291-a9ca-074f434b20f8)
 
